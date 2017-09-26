@@ -30,7 +30,7 @@ public Plugin myinfo =
 	author = ".#Zipcore & Simon & Drixevel",
 	description = "Round based raffle system for Zephyrus Store credits",
 	version = PLUGIN_VERSION,
-	url = "G"
+	url = "www.TheEdgeClan.com"
 };
 
 public void OnPluginStart()
